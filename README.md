@@ -1,4 +1,4 @@
-# Wake Up-Infinite Runner 
+# Advanced Cash Miner
 
 •	Implemented a value Iteration algorithm for calculating an optimal MDP policy in a toy grid-world setting.
 
